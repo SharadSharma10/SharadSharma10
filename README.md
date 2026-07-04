@@ -1,5 +1,6 @@
-#                 💫 Hi I'm Sharad Sharma:
-FULL STACK DEVELOPER | MERN SPECIALIST | PYTHON DEVELOPER
+# 💫 Hi I'm Sharad Sharma:
+A passionate Software developer
+
 
 
 ## 🌐 Socials:
