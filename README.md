@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                 💫 Hi I'm Sharad Sharma:
 FULL STACK DEVELOPER | MERN SPECIALIST | PYTHON DEVELOPER
 
 
